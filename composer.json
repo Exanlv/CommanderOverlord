@@ -1,6 +1,6 @@
 {
     "require": {
-        "team-reflex/discord-php": "dev-master",
+        "exan/fenrir": "^0.6",
         "symfony/console": "^6.2"
     },
     "autoload": {
